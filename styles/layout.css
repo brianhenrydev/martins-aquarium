@@ -1,0 +1,21 @@
+#fishList,
+.locations {
+  margin-left: 5vw;
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: space-evenly;
+  width: 60%;
+  float: left;
+  grid-gap: 20px;
+}
+
+.locations {
+  margin-top: 40px;
+}
+
+#tipList {
+  float: right;
+  width: 20%;
+  margin-right: 4vw;
+  padding: 5%;
+}

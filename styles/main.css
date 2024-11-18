@@ -1,0 +1,41 @@
+html,
+body {
+  background-color: #0C0C0C;
+  color: whitesmoke;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  margin-bottom: 2vh;
+  font-size: 5rem;
+}
+
+.fish-card {
+  padding: rem;
+  justify-self: center;
+  text-align: center;
+}
+
+.fish-card img {
+  width: 80%;
+  height: auto;
+}
+
+
+.location {
+  padding: 1rem;
+  overflow: hidden;
+  justify-content: center;
+}
+
+#tips-header {
+  font-size: 40px;
+  text-align: center;
+  margin-right: 0px;
+}
+
+.tip {
+  max-width: 100%;
+  justify-self: center;
+}
